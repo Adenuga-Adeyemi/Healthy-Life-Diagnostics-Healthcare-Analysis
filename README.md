@@ -1,5 +1,7 @@
 # Healthcare Analytics Report – HealthyLife Diagnostics Clinic
 
+<img width="2000" height="3142" alt="image" src="https://github.com/user-attachments/assets/a8c50093-d7c6-4300-9125-8f87c6f18ef3" />
+
 ## Introduction
 
 In the ever-evolving field of healthcare, **data analytics** has emerged as a powerful tool, revolutionizing how patient care is delivered. With the vast amount of data generated within the healthcare ecosystem, leveraging data analytics techniques has become essential to uncover valuable insights and drive informed decision-making.
@@ -189,7 +191,7 @@ Avg Insurance Coverage = AVERAGE(HealthData[Insurance Coverage (%)])
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 The **HealthyLife Diagnostics Clinic Healthcare Dashboard** provides deep insights into patient demographics, treatment performance, and doctor workload.  
 **Future steps** include using **predictive analytics** for patient risk modeling and **personalized engagement** to enhance care.
